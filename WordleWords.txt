@@ -1,0 +1,12 @@
+apple
+laugh
+paper
+stone
+zebra
+quiet
+plant
+hover
+flock
+rival
+snake
+whale
